@@ -7,7 +7,7 @@ It transforms raw ranking data into meaningful visual analytics for songs, artis
 
 🚀 Key Features
 
-🏠 Overview Page
+# Overview Page
 
 Displays key KPIs: Total Songs, Distinct Artists, Average Popularity, and Average Duration.
 Compares Explicit vs Non-Explicit song performance.
@@ -50,7 +50,7 @@ DAX (Data Analysis Expressions for KPIs & Measures)
 
 Spotify Top 50 dataset containing:
 
-Song Name----
+# Song Name----
 Artist(s)
 Album Type
 Release Date
@@ -67,6 +67,7 @@ Certain artists consistently maintain top chart positions across months.
 # Dashboard Preview
 
 # screenshot 
+
 https://github.com/CodingwithAnkit-tech/Spotify-dashboard/blob/main/Home%20Page.png
 
 https://github.com/CodingwithAnkit-tech/Spotify-dashboard/blob/main/Overview.png
