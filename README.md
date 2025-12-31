@@ -29,7 +29,7 @@ It transforms raw ranking data into meaningful visual analytics for songs, artis
 - Ranks Top Songs by Popularity.
 - Displays Album/Single distribution per song.
 - Compares Songs by Song Count and Popularity.
-Provides a detailed table with song attributes (name, release date, popularity, duration, etc.).
+- Provides a detailed table with song attributes (name, release date, popularity, duration, etc.).
 
 # Problem Solved
 
