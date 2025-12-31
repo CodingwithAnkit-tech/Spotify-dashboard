@@ -6,6 +6,7 @@ The Spotify Dashboard is an interactive Power BI report designed to help music a
 It transforms raw ranking data into meaningful visual analytics for songs, artists, and albums — making it easier to identify top performers, track trends, and guide content strategy.
 
 🚀 Key Features
+
 # Overview Page
 
 Displays key KPIs: Total Songs, Distinct Artists, Average Popularity, and Average Duration.
