@@ -19,7 +19,7 @@ Highlights Top Songs and Top Artists by popularity.
 
 # Artist Page
 
-Lists Top Artists by Popularity.
+- Lists Top Artists by Popularity.
 Compares Tracks per Album and Songs per Artist.
 Drill-down into artist-level data: songs, release dates, avg popularity, position, and duration.
 Identifies artists with consistent hits and #1 rankings.
