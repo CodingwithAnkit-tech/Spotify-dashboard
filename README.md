@@ -15,7 +15,7 @@ It transforms raw ranking data into meaningful visual analytics for songs, artis
 - Analyzes Album Type Distribution (Single, Album, Compilation).
 - Tracks Distinct Songs and Average Popularity by Year.
 - Shows Monthly Trends for popularity and song count.
-Highlights Top Songs and Top Artists by popularity.
+- Highlights Top Songs and Top Artists by popularity.
 
 # Artist Page
 
