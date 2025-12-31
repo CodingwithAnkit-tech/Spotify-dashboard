@@ -22,7 +22,7 @@ It transforms raw ranking data into meaningful visual analytics for songs, artis
 - Lists Top Artists by Popularity.
 - Compares Tracks per Album and Songs per Artist.
 - Drill-down into artist-level data: songs, release dates, avg popularity, position, and duration.
-Identifies artists with consistent hits and #1 rankings.
+- Identifies artists with consistent hits and #1 rankings.
 
 # Songs Page
 
