@@ -38,7 +38,7 @@ It transforms raw ranking data into meaningful visual analytics for songs, artis
 - Explicit vs Non-Explicit content analysis.
 - Better understanding of album type distribution.
 - Visibility into yearly and monthly trends.
-Connected insights between Artist and Song levels.
+- Connected insights between Artist and Song levels.
 - Data-driven decision support for curation and marketing strategies.
 
 # Tech Stack
