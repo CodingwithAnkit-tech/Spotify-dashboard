@@ -37,7 +37,7 @@ It transforms raw ranking data into meaningful visual analytics for songs, artis
 - Clear KPI monitoring and performance tracking.
 - Explicit vs Non-Explicit content analysis.
 - Better understanding of album type distribution.
-Visibility into yearly and monthly trends.
+- Visibility into yearly and monthly trends.
 Connected insights between Artist and Song levels.
 Data-driven decision support for curation and marketing strategies.
 
