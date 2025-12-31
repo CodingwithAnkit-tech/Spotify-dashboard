@@ -10,7 +10,7 @@ It transforms raw ranking data into meaningful visual analytics for songs, artis
 
 # Overview Page
 
-Displays key KPIs: Total Songs, Distinct Artists, Average Popularity, and Average Duration.
+- Displays key KPIs: Total Songs, Distinct Artists, Average Popularity, and Average Duration.
 Compares Explicit vs Non-Explicit song performance.
 Analyzes Album Type Distribution (Single, Album, Compilation).
 Tracks Distinct Songs and Average Popularity by Year.
