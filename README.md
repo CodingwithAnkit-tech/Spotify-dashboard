@@ -33,7 +33,7 @@ Provides a detailed table with song attributes (name, release date, popularity, 
 
 # Problem Solved
 
-Before this dashboard, Spotify’s “Top 50” data was hard to interpret. This solution bridges the gap by offering:
+- Before this dashboard, Spotify’s “Top 50” data was hard to interpret. This solution bridges the gap by offering:
 Clear KPI monitoring and performance tracking.
 Explicit vs Non-Explicit content analysis.
 Better understanding of album type distribution.
